@@ -1,1 +1,1 @@
-# Hierarchical Attention Networks for Textual Documents Classification
+# Hierarchical Attention Networks for Document Classification
