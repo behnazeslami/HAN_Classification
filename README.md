@@ -1,1 +1,1 @@
-# HAN_Classification
+# Hierarchical Attention Networks for Textual Documents Classification
